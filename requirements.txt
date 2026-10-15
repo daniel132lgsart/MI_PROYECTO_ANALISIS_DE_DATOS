@@ -1,4 +1,4 @@
-openpyxt
+openpyxl
 streamlit
 pandas
 matplotlib
